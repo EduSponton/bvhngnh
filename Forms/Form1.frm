@@ -55,5 +55,5 @@ Private Sub Command1_Click()
 End Sub
 
 Private Sub Form_Load()
-
+ 'a ver que pasa
 End Sub
